@@ -1,6 +1,6 @@
 # Aksara Frontend
 
-WIP. *Stay tuned*.
+WIP. _Stay tuned_.
 
 ## License
 
